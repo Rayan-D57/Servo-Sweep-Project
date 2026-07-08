@@ -21,3 +21,9 @@ Make sure all grounds are connected to the Arduino GND.
 - **Initialization:** All servos are attached in `setup()`.  
 - **Sweep Sequence:** A `while` loop runs for 2000 ms, moving the servos back and forth between 0° and 180°.  
 - **Holding Phase:** After 2 seconds, all servos receive a `write(90)` command to hold the center position.
+
+## Demo Video
+
+You can watch the demo video here:
+
+[📹 Click to view the screen recording](Screen%20Recording%202026-07-08%20102117.mp4)
