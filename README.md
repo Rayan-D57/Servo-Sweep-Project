@@ -1,4 +1,4 @@
-# Servo-Sweep
+# Servo-Sweep Project
 
 This project controls four servo motors using an Arduino UNO. The system performs a sweep motion (0° to 180°) for 2 seconds, then locks all motors at 90°.
 
